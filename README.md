@@ -1,4 +1,4 @@
-# Public_Transport_Analysis
+# Public Transport Analysis
 In this respository, the public transport of Bogota is analyzed in order to identify possible patterns of transport demand of Transmilenio buses which operate in the city as a Bus Rapid Transit (BRT) system. Transport demand is measured every 15 minutes as the number of departures in each bus station.
 
 **Keypoints**:
